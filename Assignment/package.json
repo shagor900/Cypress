@@ -1,0 +1,17 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.5.0",
+    "cypress-mochawesome-reporter": "^3.2.3",
+    "cypress-xpath": "^2.0.1"
+  }
+}
